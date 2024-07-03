@@ -1,0 +1,59 @@
+{
+    "Personal Information": {
+        "Name": "Aryaman Tiwari",
+        "Email": "aryamantiwari02@gmail.com",
+        "Mobile": "7982662738",
+        "GitHub": "aryamantiwari",
+        "LinkedIn": "aryamantiwari",
+        "LeetCode": "aryamantiwari02"
+    },
+    "Education": {
+        "Institution": "Jaypee University of Information Technology",
+        "Degree": "BTech in Computer Science",
+        "CGPA": 7.7,
+        "Location": "Solan, HP",
+        "Duration": "Sep. 2021 \u2013 Jun. 2025"
+    },
+    "Experience": [
+        {
+            "Company": "Advanced Technology and Research Innovation Group London (Remote), UK",
+            "Position": "Intern",
+            "Technologies": [
+                " OpenAI ,Azure ,Langchain ,NLP"
+            ],
+            "Location": "Remote",
+            "Duration": "Apr 2024 - Jun 2024",
+            "Responsibilities": []
+        },
+        {
+            "Company": "Scalligent Technologies Private Limited Mumbai (Remote), India",
+            "Position": "Intern",
+            "Technologies": [
+                " OCR ,Flask ,FastAPI ,LLD,AWS "
+            ],
+            "Location": "Remote",
+            "Duration": "Dec 2023 - Apr 2024",
+            "Responsibilities": []
+        },
+        {
+            "Company": "Saint Louis University Missouri(Remote),USA",
+            "Position": "Intern",
+            "Technologies": [
+                " Python ,Analytics ,PowerBI "
+            ],
+            "Location": "Remote",
+            "Duration": "",
+            "Responsibilities": []
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "Secure-Ekyc",
+            "Description": "Developed a secure e-KYC system for the financial sector. The system utilizes deep learning for robust"
+        },
+        {
+            "Title": "Analysing FACEBOOK Campaign",
+            "Description": "Conducted data-driven analysis of Facebook campaigns to identify"
+        }
+    ],
+    
